@@ -32,7 +32,7 @@ cuando el mouse realice alguna movida de acuerdo a los trazos que realice el usu
 -Algunos métodos del mouse pero los cuales no cuentan con alguna operación.
 ![image](https://user-images.githubusercontent.com/71079322/132073336-6003d8ba-facd-415f-9e9c-e570fee6fcc0.png)
 
-# Metodo init
+# Método init
 
 ![image](https://user-images.githubusercontent.com/71079322/132073411-0b7a1dbb-1f46-401d-8820-6158056dab47.png)
 

@@ -1,1 +1,1 @@
-# Trazo-de-l-neas-y-pol-gonos
+# Trazo-de-lineas-y-poligonos

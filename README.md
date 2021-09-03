@@ -1,4 +1,4 @@
-# Trazo-de-lineas-y-poligonos
+# Trazo De Lineas Y Poligonos
 Construir una aplicación en la que se pueda trazar la línea recta
 que une dos puntos, que trace las líneas rectas que unan puntos sucesivos marcados con el
 ratón y dado el valor del número de lados (n), dibujar el polígono correspondiente de n lados. 
@@ -11,7 +11,7 @@ ratón y dado el valor del número de lados (n), dibujar el polígono correspond
 
 ![image](https://user-images.githubusercontent.com/71079322/132071921-267050cb-662c-4fa3-bab6-4e8c0286f3c2.png)
 
-# Metodo Main
+# Método Main
 -Dentro de nuestro método main se encuentra algunas caraterísticas de nuestra pantalla, así como se crea un hilo para detener la animación cuando nuestra pantalla se cierre.
 
 ![image](https://user-images.githubusercontent.com/71079322/132072195-8fffe314-fb80-4b25-a61a-888e96e5f500.png)

@@ -8,10 +8,21 @@ ratón y dado el valor del número de lados (n), dibujar el polígono correspond
 
 # Clase Ejercicio_3
 -En esta parte inicia nuestra clase Ejercicio_3 en la cual implementamos las acciones de GL. Declaramos las variables que utilizaremos más adelante.
+
 ![image](https://user-images.githubusercontent.com/71079322/132071921-267050cb-662c-4fa3-bab6-4e8c0286f3c2.png)
 
 # Metodo Main
--Dentro de nuestro método main se encuentra algunas caraterísticas de nuestra pantalla, así como se crea un hilo para la animación de esta.
+-Dentro de nuestro método main se encuentra algunas caraterísticas de nuestra pantalla, así como se crea un hilo para detener la animación cuando nuestra pantalla se cierre.
+
 ![image](https://user-images.githubusercontent.com/71079322/132072195-8fffe314-fb80-4b25-a61a-888e96e5f500.png)
+
+-Podemos crear algunas accciones para el mouse, esto nos servira para cuando el usuario realice alguna acción en especifico, en este caso la accion que realizara es 
+cuando el mouse realice alguna movida de acuerdo a los trazos que realice el usuario.
+
+![image](https://user-images.githubusercontent.com/71079322/132072730-af4c86b9-7ef5-43a2-9ab4-2d6275a43175.png)
+
+-
+![image](https://user-images.githubusercontent.com/71079322/132073071-89799cf7-a92c-41fa-af8e-5b6cba9358de.png)
+
 
 

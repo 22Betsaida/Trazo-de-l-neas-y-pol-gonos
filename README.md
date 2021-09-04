@@ -21,9 +21,9 @@ cuando el mouse realice alguna movida de acuerdo a los trazos que realice el usu
 
 ![image](https://user-images.githubusercontent.com/71079322/132072730-af4c86b9-7ef5-43a2-9ab4-2d6275a43175.png)
 
--En este método la accion del mouse se debe a un click y este volvera a solicitar el numero de lados para nuestro polígono, es por eso que manda a llamar al método reiniciar().
+-En este método la acción del mouse se debe a un click y este volvera a solicitar el número de lados para nuestro polígono esperando un segundo, es por eso que manda a llamar al método reiniciar().
 
-![image](https://user-images.githubusercontent.com/71079322/132073140-32f84d44-c5cd-4776-8e94-7c8ff5e65a7a.png)
+![image](https://user-images.githubusercontent.com/71079322/132102710-77ddb9f3-bc37-4668-ad23-b4c1b8c835e0.png)
 
 -Y por último el método de cuando el mouse sea presionado, en este se ira contabilizando el numero de lados que se ingresaron.
 

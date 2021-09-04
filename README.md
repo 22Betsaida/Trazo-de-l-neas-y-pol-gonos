@@ -49,15 +49,21 @@ cuando el mouse realice alguna movida de acuerdo a los trazos que realice el usu
 
 #                                          Resultados
 -Como primer paso el usuario debe introducir el número de lados que desea que tenga su polígono
+
 ![image](https://user-images.githubusercontent.com/71079322/132102001-9cd35c71-2cc1-4410-81fd-bebedcb1aeda.png)
 
 ![image](https://user-images.githubusercontent.com/71079322/132102009-a7af40b4-b308-44fe-8edf-af7b0aee4512.png)
 
 -Despues el usuario comenzara a trazar las lineas con su mouse.
-![image](https://user-images.githubusercontent.com/71079322/132102044-d8384ea1-7ea8-4c3d-9d5b-17c3e0bed15f.png)
+![image](https://user-images.githubusercontent.com/71079322/132102870-7bb0138e-7a95-40b5-9ed2-1e466af8bf5b.png)
 
 -Siguiente paso se trazara un polígono de acuerdo a lados.
-![image](https://user-images.githubusercontent.com/71079322/132102082-1af53406-c178-4270-bfae-0e929d331f9f.png)
+![image](https://user-images.githubusercontent.com/71079322/132102936-66b5b157-17dd-4f5b-8df7-48bc1abc76d3.png)
+
+-Por último nos solicitara de nuevo los lados que deseamos introducir.
+![image](https://user-images.githubusercontent.com/71079322/132102970-66240f89-b6f8-40a1-a708-90bd155f37a8.png)
+
+
 
                                     
 

@@ -37,26 +37,28 @@ cuando el mouse realice alguna movida de acuerdo a los trazos que realice el usu
 
 ![image](https://user-images.githubusercontent.com/71079322/132073411-0b7a1dbb-1f46-401d-8820-6158056dab47.png)
 
-# Método reshape
--Dentro de este método no se encuentra nada, ya para la realización de nuestro programa no es necesario.
-
-![image](https://user-images.githubusercontent.com/71079322/132073937-2c886b96-aa48-44bd-a053-9c97d3bde1c5.png)
-
 # Método display
 -Este método es llamado por drawable para iniciar el renderizado de OpenGL a petición del usuario. Dentro de este método se incluirán los gráficos que GLCanvas dibujará y será llamado cada vez que se le solicite, o cuando todos los GLEventListeners hayan sido notificados de que ocurrió algún evento, dentro de este método se encuentra las operaciones qe nos ayudara a la realización de las lineas y poligonos, así como la posición de cada línea que sera trazada con el mouse por el usuario.
 
-![image](https://user-images.githubusercontent.com/71079322/132074075-8a9da977-21a4-4f5d-8a86-d760a845bc3e.png)
-
-
-# Método displayChanged
--El cual tampoco contiene algún tipo de dato.
-
+![image](https://user-images.githubusercontent.com/71079322/132101951-1d7ad809-3260-4f50-b447-9a8a51043859.png)
 
 # Método de reiniciar
 -Nos ayudara a como su nombre lo dice reiniciar nuestro programa, nos volvera a solicitar el numero de lados que el usuario desea trazar.
 
 ![image](https://user-images.githubusercontent.com/71079322/132074125-21148c41-85d9-473e-8325-bae6a13cb74b.png)
 
+#                                          Resultados
+-Como primer paso el usuario debe introducir el número de lados que desea que tenga su polígono
+![image](https://user-images.githubusercontent.com/71079322/132102001-9cd35c71-2cc1-4410-81fd-bebedcb1aeda.png)
 
+![image](https://user-images.githubusercontent.com/71079322/132102009-a7af40b4-b308-44fe-8edf-af7b0aee4512.png)
+
+-Despues el usuario comenzara a trazar las lineas con su mouse.
+![image](https://user-images.githubusercontent.com/71079322/132102044-d8384ea1-7ea8-4c3d-9d5b-17c3e0bed15f.png)
+
+-Siguiente paso se trazara un polígono de acuerdo a lados.
+![image](https://user-images.githubusercontent.com/71079322/132102082-1af53406-c178-4270-bfae-0e929d331f9f.png)
+
+                                    
 
 

@@ -19,18 +19,18 @@ ratón y dado el valor del número de lados (n), dibujar el polígono correspond
 -Podemos crear algunas accciones para el mouse, esto nos servira para cuando el usuario realice alguna acción en especifico, en este caso la accion que realizara es 
 cuando el mouse realice alguna movida de acuerdo a los trazos que realice el usuario.
 
-![image](https://user-images.githubusercontent.com/71079322/132072730-af4c86b9-7ef5-43a2-9ab4-2d6275a43175.png)
+![image](https://user-images.githubusercontent.com/71079322/132545665-0d67e256-91fc-4065-b7b8-5569a88a68d7.png)
 
 -En este método la acción del mouse se debe a un click y este volvera a solicitar el número de lados para nuestro polígono esperando un segundo, es por eso que manda a llamar al método reiniciar().
 
-![image](https://user-images.githubusercontent.com/71079322/132102710-77ddb9f3-bc37-4668-ad23-b4c1b8c835e0.png)
+![image](https://user-images.githubusercontent.com/71079322/132545434-f8c757e2-fa0a-46e1-b56f-3a67ccc5f0ee.png)
 
 -Y por último el método de cuando el mouse sea presionado, en este se ira contabilizando el numero de lados que se ingresaron.
 
-![image](https://user-images.githubusercontent.com/71079322/132073307-b6713f52-c2b0-4bc1-b958-45264acbe5d8.png)
+![image](https://user-images.githubusercontent.com/71079322/132545729-91c772c5-3e5b-46f0-85f0-60bbad8eaedd.png)
 
 -Algunos métodos del mouse pero los cuales no cuentan con alguna operación.
-![image](https://user-images.githubusercontent.com/71079322/132073336-6003d8ba-facd-415f-9e9c-e570fee6fcc0.png)
+![image](https://user-images.githubusercontent.com/71079322/132545801-b683ac5c-06ca-4a46-a24c-825a024cbba6.png)
 
 # Método init
 -Este método es llamado por drawable inmediatamente después de que el contexto de OpenGL es inicializado. Puede ser utilizado para la inicialización de los gráficos de OpenGL que GLCanvas utilizará tales como el color de fondo, color de los objetos que se dibujarán.

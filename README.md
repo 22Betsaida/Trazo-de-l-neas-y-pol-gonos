@@ -4,7 +4,7 @@ que une dos puntos, que trace las líneas rectas que unan puntos sucesivos marca
 ratón y dado el valor del número de lados (n), dibujar el polígono correspondiente de n lados. 
 
 -Importamos todas las librerias que utilizaremos para la creación de nuestro programa.
-![image](https://user-images.githubusercontent.com/71079322/132070962-4e954679-a05b-4542-bb5f-6630850d6ee8.png)
+![image](https://user-images.githubusercontent.com/71079322/132544866-d393ebcc-b2fd-43c5-956a-7db79510bdb4.png)
 
 # Clase Ejercicio_2C
 -En esta parte inicia nuestra clase Ejercicio_2C en la cual implementamos la interfaz conocida con el nombre GLEventListener. Declaramos las variables que utilizaremos más adelante.
@@ -14,7 +14,7 @@ ratón y dado el valor del número de lados (n), dibujar el polígono correspond
 # Método Main
 -Dentro de nuestro método main se encuentra algunas caraterísticas de nuestra pantalla, así como se crea un hilo para detener la animación cuando nuestra pantalla se cierre.
 
-![image](https://user-images.githubusercontent.com/71079322/132072195-8fffe314-fb80-4b25-a61a-888e96e5f500.png)
+![image](https://user-images.githubusercontent.com/71079322/132544962-f6d9eff8-c200-48a8-b770-650f3659ff1c.png)
 
 -Podemos crear algunas accciones para el mouse, esto nos servira para cuando el usuario realice alguna acción en especifico, en este caso la accion que realizara es 
 cuando el mouse realice alguna movida de acuerdo a los trazos que realice el usuario.

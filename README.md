@@ -35,17 +35,17 @@ cuando el mouse realice alguna movida de acuerdo a los trazos que realice el usu
 # Método init
 -Este método es llamado por drawable inmediatamente después de que el contexto de OpenGL es inicializado. Puede ser utilizado para la inicialización de los gráficos de OpenGL que GLCanvas utilizará tales como el color de fondo, color de los objetos que se dibujarán.
 
-![image](https://user-images.githubusercontent.com/71079322/132073411-0b7a1dbb-1f46-401d-8820-6158056dab47.png)
+![image](https://user-images.githubusercontent.com/71079322/132546086-6580d4fe-7401-488d-bc5c-0ac1ce94239c.png)
 
 # Método display
 -Este método es llamado por drawable para iniciar el renderizado de OpenGL a petición del usuario. Dentro de este método se incluirán los gráficos que GLCanvas dibujará y será llamado cada vez que se le solicite, o cuando todos los GLEventListeners hayan sido notificados de que ocurrió algún evento, dentro de este método se encuentra las operaciones qe nos ayudara a la realización de las lineas y poligonos, así como la posición de cada línea que sera trazada con el mouse por el usuario.
 
-![image](https://user-images.githubusercontent.com/71079322/132101951-1d7ad809-3260-4f50-b447-9a8a51043859.png)
+![image](https://user-images.githubusercontent.com/71079322/132546152-ec166c3e-1877-4c44-98c7-ed215ef72ff4.png)
 
 # Método de reiniciar
 -Nos ayudara a como su nombre lo dice reiniciar nuestro programa, nos volvera a solicitar el numero de lados que el usuario desea trazar.
 
-![image](https://user-images.githubusercontent.com/71079322/132074125-21148c41-85d9-473e-8325-bae6a13cb74b.png)
+![image](https://user-images.githubusercontent.com/71079322/132546248-ce43c332-b4fd-4bb1-863a-2c2248056956.png)
 
 #                                          Resultados
 -Como primer paso el usuario debe introducir el número de lados que desea que tenga su polígono

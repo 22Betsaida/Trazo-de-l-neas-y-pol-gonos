@@ -6,10 +6,10 @@ ratón y dado el valor del número de lados (n), dibujar el polígono correspond
 -Importamos todas las librerias que utilizaremos para la creación de nuestro programa.
 ![image](https://user-images.githubusercontent.com/71079322/132070962-4e954679-a05b-4542-bb5f-6630850d6ee8.png)
 
-# Clase Ejercicio_3
--En esta parte inicia nuestra clase Ejercicio_3 en la cual implementamos la interfaz conocida con el nombre GLEventListener. Declaramos las variables que utilizaremos más adelante.
+# Clase Ejercicio_2C
+-En esta parte inicia nuestra clase Ejercicio_2C en la cual implementamos la interfaz conocida con el nombre GLEventListener. Declaramos las variables que utilizaremos más adelante.
 
-![image](https://user-images.githubusercontent.com/71079322/132071921-267050cb-662c-4fa3-bab6-4e8c0286f3c2.png)
+![image](https://user-images.githubusercontent.com/71079322/132544539-0355bd6a-a0ad-4178-93fa-3ce1b9a8eee4.png)
 
 # Método Main
 -Dentro de nuestro método main se encuentra algunas caraterísticas de nuestra pantalla, así como se crea un hilo para detener la animación cuando nuestra pantalla se cierre.
